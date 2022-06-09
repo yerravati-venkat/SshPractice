@@ -1,2 +1,6 @@
 How are you all???? Hope everyone is doing great
-This is the line we chaned in teh local repository
+
+
+
+This is the file that we are changin in the remote repository
+
