@@ -1,0 +1,1 @@
+This is created to check how the folder is added to the git repository
