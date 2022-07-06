@@ -1,0 +1,2 @@
+This is the code which is written using the nano command in the gitbash
+
