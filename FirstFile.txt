@@ -3,4 +3,4 @@ This is the line which needs to be pulled
 this is to check whether the changes were there are not after merging
 First line 
 Change which is done in master
-check check
+  check check
